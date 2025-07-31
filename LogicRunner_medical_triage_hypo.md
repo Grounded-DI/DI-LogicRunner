@@ -1,5 +1,5 @@
 **LogicRunner (Deterministic Agent) Demo #1 – Pediatric Emergency Triage** (Patent-Pending)
-**By Grounded DI**
+# **By Grounded DI**
 **Date:** July 31, 2025
 
 ---
