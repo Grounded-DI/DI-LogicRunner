@@ -17,6 +17,9 @@ Integrity-Enforced: Fails safely if logic path breaks. Drift is not permitted.
 
 Domain-Aware: Operates with internal models for law, diagnostics, physics, and ethics.
 
+This system replaces guesswork with controlled reasoning. 
+It doesn't just answer - it explains why, and does so the same way every time.
+
 ---
 
 > ⚠️ **Note:** This demonstration is for **educational purposes only**.  
